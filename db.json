@@ -1,11 +1,39 @@
 {
-    "users":[
-        { "id": "23", "firstName": "Athena", "age": "25", "companyId": "1" },
-        { "id": "40", "firstName": "Diana", "age": "35", "companyId": "1" },
-        { "id": "41", "firstName": "Noodle", "age": "40", "companyId": "2" }
-    ],
-    "companies": [
-        { "id": "1", "name": "Kalmbach Media", "description": "Discover and Astronomy brands"},
-        { "id": "2", "name": "Apple", "description": "iphone"}
-    ]
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Athena",
+      "age": "25",
+      "companyId": "1"
+    },
+    {
+      "id": "40",
+      "firstName": "Diana",
+      "age": "35",
+      "companyId": "1"
+    },
+    {
+      "id": "41",
+      "firstName": "Noodle",
+      "age": "40",
+      "companyId": "2"
+    },
+    {
+      "firstName": "Theresa",
+      "age": 26,
+      "id": "67qVMiZ"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Kalmbach Media",
+      "description": "Discover and Astronomy brands"
+    },
+    {
+      "id": "2",
+      "name": "Apple",
+      "description": "iphone"
+    }
+  ]
 }
